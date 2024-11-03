@@ -30,3 +30,5 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 https://gssoc.girlscript.tech/leaderboard?year=<YEAR_BADGES>&username=<Salini-sat>
+
+<img src=https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20Dark.png" width="100px" height="100px" />
