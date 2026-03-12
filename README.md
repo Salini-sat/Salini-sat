@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Salini 
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me.....
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Have 5+ hobbies but not perfect in any 
 
