@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Salini 
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me.....
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Have 5+ hobbies but not perfect in any 
+### 👩‍💻 About Me  
+- 👀 Interested in **Data Science, Machine Learning & AI**  
+- 🌱 Currently learning **DSA + ML + Core CS**  
+- 💞️ Looking to collaborate on **ML Projects & Data-driven apps**  
+- 📫 Reach me at: **your-email@example.com**  
+- 😄 Pronouns: **She/Her**  
+- ⚡ Fun fact: *I have 5+ hobbies… still mastering none 😄*
+
 
 <!---
 Salini-sat/Salini-sat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
