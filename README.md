@@ -2,7 +2,7 @@
 - 👀 Interested in **Data Science, Machine Learning & AI**  
 - 🌱 Currently learning **DSA + ML + Core CS**  
 - 💞️ Looking to collaborate on **ML Projects & Data-driven apps**  
-- 📫 Reach me at: **your-email@example.com**  
+- 📫 Reach me at: **salinisatpathy2005@gmail.com**  
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun fact: *I have 5+ hobbies… still mastering none 😄*
 
